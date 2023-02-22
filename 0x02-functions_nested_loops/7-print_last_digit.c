@@ -14,5 +14,6 @@ int a;
 	if (a < 0)
 		a = -a;
 	_putchar(a + '0');
+
 	return (a);		
 }
